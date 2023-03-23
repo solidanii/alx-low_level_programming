@@ -3,7 +3,7 @@
 
 /**
  * main - check the code.
- *
+ *_isupper - function for upper
  * Return: Always 0.
  */
 int main(void)
