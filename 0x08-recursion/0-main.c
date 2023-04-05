@@ -5,6 +5,6 @@
  */
 int main(void)
 {
-	_puts_recursion("puts with recusion");
+	_puts_recursion("Puts with recusion");
 	return (0);
 }
