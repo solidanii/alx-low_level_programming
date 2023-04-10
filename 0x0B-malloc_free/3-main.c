@@ -22,9 +22,9 @@ void print_grid(int **grid, int width, int height)
 			printf("%d", grid[h][w]);
 			w++;
 		}
+		printf("\n");
+		h++;
 	}
-	printf("\n");
-	h++;
 }
 /**
  * main - check the code for alx school students
